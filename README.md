@@ -26,7 +26,7 @@ j${loWer:Nd}i${uPper::}
 
 3.利用
 vcenter: 
-X-Forwarded-For: ${xx}
+X-Forwarded-For: ${xx/o=tomcat}
 
 User-Agent: 
 
