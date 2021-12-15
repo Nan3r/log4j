@@ -25,6 +25,6 @@ j${EnV:K5:-nD}i:
 j${loWer:Nd}i${uPper::} 
 ```
 
-![](README.assets/2.jpg)
+![https://github.com/Nan3r/log4j/blob/main/README.assets/2.png](README.assets/2.jpg)
 
-![](README.assets/1.png)
+![https://github.com/Nan3r/log4j/blob/main/README.assets/1.png](README.assets/1.png)
