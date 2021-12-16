@@ -30,6 +30,7 @@ j${loWer:Nd}i${uPper::}
 
 3.利用
 https://github.com/cckuailong/reapoc/tree/main/Topic/Log4j
+https://github.com/cisagov/log4j-affected-db 影响产品
 
 
 ```
