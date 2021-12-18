@@ -33,6 +33,10 @@ https://github.com/cckuailong/reapoc/tree/main/Topic/Log4j
 https://github.com/cisagov/log4j-affected-db 影响产品
 
 
+4.检测
+正则匹配：https://github.com/back2root/log4shell-rex
+扫描本地包:https://github.com/hillu/local-log4j-vuln-scanner
+
 ```
 
 ![https://github.com/Nan3r/log4j/blob/main/README.assets/2.png](README.assets/2.jpg)
